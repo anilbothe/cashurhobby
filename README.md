@@ -3,7 +3,7 @@
 
 # Project Structure 
 > Root(CASHURHOBBY)
-    <pre>
+ 
     |___ app 
     |        |___ management
     |        |___ views.py
@@ -16,4 +16,4 @@
     |
     |
     |___ manage.py
-    <pre>
+ 
